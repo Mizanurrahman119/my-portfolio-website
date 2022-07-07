@@ -37,8 +37,8 @@ const Contact = () => {
           <artical className="contact__optien">
             <MdOutlineEmail className="contact__optien-icon" />
             <h4>Email</h4>
-            <h5>mdrahat1720@gmail.com</h5>
-            <a href="mailto:mdrahat1720@gmail.com" target="_blank">
+            <h5>niloy719119@gmail.com</h5>
+            <a href="mailto:niloy719119@gmail.com" target="blank">
               Sent a Massage
             </a>
           </artical>
@@ -46,10 +46,10 @@ const Contact = () => {
           <artical className="contact__optien">
             <RiMessengerLine className="contact__optien-icon" />
             <h4>Messenger</h4>
-            <h5>mdrahat1720</h5>
+            <h5>mizanurrahman.719</h5>
             <a
-              href="https://m.me/profile.php?id=100068950478579"
-              target="_blank"
+              href="https://web.facebook.com/mizanurrahman.719?_rdc=1&_rdr"
+              target="blank"
             >
               Sent a Massage
             </a>
@@ -57,11 +57,11 @@ const Contact = () => {
 
           <artical className="contact__optien">
             <BsWhatsapp className="contact__optien-icon" />
-            <h4>WhatApp</h4>
-            <h5>01793734278</h5>
+            <h4>WhatsApp</h4>
+            <h5>01706719119</h5>
             <a
-              href="https://api.whatsapp.com/sens?phone01793734278"
-              target="_blank"
+              href="https://api.whatsapp.com/sens?phone01706719119"
+              target="blank"
             >
               Sent a Massage
             </a>

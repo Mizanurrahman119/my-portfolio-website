@@ -7,10 +7,10 @@ import {GrTwitter} from 'react-icons/gr';
 const Footer = () => {
     return (
         <footer>
-          <a href="#" className="footer__logo">TrCode</a>
+          <a href="https://web.facebook.com/Coders-BD-107189195249271" className="footer__logo" target="blank">Coders BD</a>
 
           <ul className="permalinks">
-            <li><a href="#">Home</a></li>
+            <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#experience">Experience</a></li>
             <li><a href="#services">Services</a></li>
@@ -19,12 +19,12 @@ const Footer = () => {
             <li><a href="#contact">Contact</a></li>
           </ul>
           <div className="footer__socials">
-            <a href="https://www.facebook.com/profile.php?id=100068950478579" target='_blank'><FaFacebookF/></a>
-            <a href="https://www.instagram.com/mrdark1720/" target='_blank'><FaInstagram/></a>
-            <a href="https://twitter.com/" target='_blank'><GrTwitter/></a>
+            <a href="https://web.facebook.com/mizanurrahman.719" target='blank'><FaFacebookF/></a>
+            <a href="https://www.instagram.com/mizanur719119/" target='blank'><FaInstagram/></a>
+            <a href="https://twitter.com/MRMizan36032748" target='blank'><GrTwitter/></a>
           </div>
           <div className="coppyright">
-             <small>&copy; TrCode . All rights reserved</small>  
+             <small>&copy; Coders BD . All rights reserved</small>  
           </div>
         </footer>
     );

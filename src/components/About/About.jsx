@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import AboutME from "../../assets/me2.png";
+import AboutME from "../../assets/me2.jpg";
 import { FiAward } from "react-icons/fi";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -36,10 +36,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Praesentium quasi assumenda aliquid, quos deserunt quidem iure sit
-            inventore sint sunt fuga cum dolore hic necessitatibus esse tempora.
-            Assumenda, blanditiis nesciunt.
+            This is Mizanur Rahman. I am completed diploma-in-engineering in CSE. I am web developer and hard worker. I have some skills in react js. 
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
