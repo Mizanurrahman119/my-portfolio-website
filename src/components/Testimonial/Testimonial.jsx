@@ -4,13 +4,18 @@ import AVATAR_1 from "../../assets/avatar-1.jpg";
 import AVATAR_2 from "../../assets/avater-2.jpg";
 import AVATAR_3 from "../../assets/avatar-3.jpg"
 // import Swiper core and required modules
-import { Pagination } from 'swiper';
+// import { Pagination } from 'swiper';
 
-import { Swiper, SwiperSlide } from 'swiper/react';
+// import { Swiper, SwiperSlide } from 'swiper/react';
+import Pagination from 'swiper';
 
 // Import Swiper styles
-import 'swiper/css';
-import 'swiper/css/pagination';
+// import 'Swiper/css';
+// import 'swiper/swiper.scss';
+// import 'swiper/css/pagination';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import 'swiper';
+
 
 const Testimonial = () => {
   const data = [
