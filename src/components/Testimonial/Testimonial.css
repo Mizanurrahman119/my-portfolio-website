@@ -1,7 +1,7 @@
 .container.trstimonial__container
 {
     width: 40%;
-    padding-bottom: 4rem;
+    /* padding-bottom: 10px; */
 }
 
 .client__avatar
@@ -24,6 +24,7 @@
     background: var(--color-bg-variant);
     text-align: center;
     padding: 2rem;
+    margin: 20px 0px 20px 0px;
     border-radius: 3rem;
     user-select: none;
 }
